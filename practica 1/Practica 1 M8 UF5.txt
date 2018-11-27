@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Títol per la meva primera pràctica de M8-UF5</title>	
+		<meta charset?"UTF-8">
+		<meta name="author" content="inmanol garcía">
+		<meta name="description" content="Primera practica M8 UF5">
+		<meta name="keywords" content="smx smx2 m8 uf5 pc web">
+		<link rel="shortcut icon" href="leon.jpg ">
+	</head>
+	<body>
+		<header>
+			<h1>Títol per la meva primera pràctica de M8-UF5</h1>
+			<h2 align="center">Els títols van definits en una secció de capçelera</h2>
+			<h3 align="right">I aquest tres títols estàn aliniats diferent</h3>
+		</header>
+		<hr>
+		<nav>
+			<p>Aixó s'ha de definir dins d'una secció de navegació</p>
+		<br>
+		<br>
+			<p>i com es pot apreciar hem separat les seccions amb un element hr</p>	
+		</nav>
+		<hr>
+		<aside>
+			<p><b><i>Secció de columna en cursiva i negreta</i></b></p>
+		</aside>
+		<hr>
+		<section>
+			<code>Aixó està dins d'una secció principal (text codificat)</code>
+		</section>
+		<hr>
+		<!--Aixó només ho puc llegir jo-->
+		<article>
+			<p>Secció de tipus article</p>
+			<p>Primer pàrraf</p>
+			<p align="center">Segon pàrraf(centrat)</p>
+			<p>Tercer pàrraf separat per un element</p>
+		</article>
+		<hr>
+		<footer>
+			<center>
+				<p><b>Aquesta secció ha de ser un peu de pàgina</b></p>
+				<a href="http://educem.com/es/?dzsvg_startitem_vg3=0&dzsvg_startitem_vg4=0&dzsvg_startitem_vg5=0&dzsvg_startitem_vg6=0">Aixó és un enllaç al web de l'educem</a>
+			</center>
+		</footer>
+	</body>
+</html>

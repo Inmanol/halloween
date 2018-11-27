@@ -1,0 +1,31 @@
+body{text-align:center;
+    background: url('./fondo.png') no-repeat;
+    background-size:cover;}
+div{background-color: rgba(124, 124, 124, 0.5);
+    height:120vh; 
+    width: 70%; 
+    margin-left:15%; 
+    font-family: 'Poor Story';
+    color:orange}
+h1{font-size:3em;}
+img{width:9em}
+img,h1{display:inline;}
+h1{position: relative; top: -55px;}
+li{margin:1;
+    padding:1;
+    display:inline;
+    list-style:none;
+    background-color:rgb(255, 38, 0);}
+li:hover{background-color:rgb(126, 22, 22);}
+li a{text-decoration:none; 
+    color:white; 
+    font-size:20px;}
+p{font-size:20px}
+#intro{font-size:25px;}
+#introcabeza{background-color:rgba(218, 89, 57, 0.733); 
+    height:30vh; 
+    width: 99%;
+    margin-left:0%; 
+    border: solid rgba(218,89,57,0.733) 5px;
+    color:black;}
+
